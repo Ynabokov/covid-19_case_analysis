@@ -1,0 +1,9 @@
+numpy
+pandas
+matplotlib
+contextily
+fiona
+shapely
+geopandas
+tqdm
+haversine
